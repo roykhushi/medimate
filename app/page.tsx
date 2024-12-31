@@ -92,8 +92,9 @@ export default function Page() {
                 <span className="block h-1 w-20 bg-emerald-500 mt-2 mx-auto lg:mx-0"></span>
               </h2>
               <p className="text-gray-600">
-                Our medical center provides comprehensive care with a team of experienced healthcare professionals. We're committed to delivering the highest quality medical services to our community.
-              </p>
+  Our medical center provides comprehensive care with a team of experienced healthcare professionals. We&apos;re committed to delivering the highest quality medical services to our community.
+</p>
+
               <ul className="space-y-3 inline-block text-left">
                 <li className="flex items-center text-gray-600">
                   <div className="h-2 w-2 bg-emerald-500 rounded-full mr-3"></div>
